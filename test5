@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x  3 haider haider 4096 Jul  3 06:14 .
+drwxr-x--- 11 haider haider 4096 Jul  3 06:02 ..
+drwxrwxr-x  8 haider haider 4096 Jul  3 06:06 .git
+-rw-rw-r--  1 haider haider    7 Jul  3 06:03 go.txt
+-rw-rw-r--  1 haider haider    0 Jul  3 06:14 test5
